@@ -2732,29 +2732,33 @@ Giấy phép xây dựng được điều chỉnh kèm theo hồ sơ thiết k�
 
 
 
-21. Thủ tục gia hạn Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án)
+## 21. Thủ tục gia hạn Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án)
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp gia hạn giấy phép xây dựng tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
-b) Cách thức thực hiện: Chủ đầu tư nộp hồ sơ trực tiếp hoặc trực tuyến hoặc gửi qua dịch vụ bưu chính.
-c) Thành phần, số lượng hồ sơ:
+### b) Cách thức thực hiện: 
+Chủ đầu tư nộp hồ sơ trực tiếp hoặc trực tuyến hoặc gửi qua dịch vụ bưu chính.
+### c) Thành phần, số lượng hồ sơ:
 - Đơn đề nghị gia hạn, cấp lại giấy phép xây dựng theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP của Chính phủ;
 - Bản chính giấy phép xây dựng đã được cấp;
 - Số lượng hồ sơ: 02 (bộ)
-d) Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: 
+Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
-g) Kết quả thực hiện thủ tục hành chính:
+### g) Kết quả thực hiện thủ tục hành chính:
 Giấy phép xây dựng được gia hạn
-h) Lệ phí: 15.000 đồng/01 lần (Mười lăm ngàn đồng chẵn)
+### h) Lệ phí: 
+15.000 đồng/01 lần (Mười lăm ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị gia hạn, cấp giấy phép xây dựng công trình theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP.
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -2762,7 +2766,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng (có hiệu lực kể từ ngày 25 tháng 6 năm 2017).
@@ -2773,18 +2777,21 @@ l) Căn cứ pháp lý của thủ tục hành chính:
 
 
 
- 	22. Thủ tục cấp lại Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án)
+ ## 22. Thủ tục cấp lại Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án)
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp lại giấy phép xây dựng tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
-b) Cách thức thực hiện: Chủ đầu tư nộp hồ sơ trực tiếp hoặc trực tuyến hoặc gửi qua dịch vụ bưu chính.
-c) Thành phần, số lượng hồ sơ:
+### b) Cách thức thực hiện: 
+Chủ đầu tư nộp hồ sơ trực tiếp hoặc trực tuyến hoặc gửi qua dịch vụ bưu chính.
+### c) Thành phần, số lượng hồ sơ:
 - Đơn đề nghị cấp lại giấy phép xây dựng, trong đó giải trình rõ lý do đề nghị cấp lại theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP của Chính phủ;
 - Bản chính giấy phép xây dựng đã được cấp (đối với trường hợp bị rách, nát).
 - Số lượng hồ sơ: 02 (bộ)
-d) Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: 
+Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
 g) Kết quả thực hiện thủ tục hành chính:
@@ -2793,9 +2800,9 @@ h) Lệ phí: 15.000 đồng/01 lần (Mười lăm ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị gia hạn, cấp giấy phép xây dựng công trình theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP.
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -2803,7 +2810,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng (có hiệu lực kể từ ngày 25 tháng 6 năm 2017).

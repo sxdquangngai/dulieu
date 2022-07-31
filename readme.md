@@ -841,8 +841,9 @@ Tổ chức đánh giá, cấp chứng chỉ năng lực hoạt động xây d�
 - Sau khi có kết quả xét cấp chứng chỉ năng lực trong thời hạn không quá 05 ngày làm việc Sở Xây dựng có trách nhiệm cập nhật và đăng tải thông tin về năng lực hoạt động xây dựng của tổ chức lên trang thông tin điện tử của Sở Xây dựng đồng thời gửi đến Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 (1) Đơn đề nghị cấp chứng chỉ năng lực hoạt động xây dựng theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP;
 (2) Quyết định thành lập tổ chức trong trường hợp có quyết định thành lập;
 (3) Quyết định công nhận phòng thí nghiệm chuyên ngành xây dựng của tổ chức hoặc hợp đồng nguyên tắc về việc liên kết thực hiện công việc thí nghiệm phục vụ khảo sát xây dựng với phòng thí nghiệm chuyên ngành xây dựng được công nhận (đối với tổ chức đề nghị cấp chứng chỉ năng lực khảo sát địa chất công trình);
@@ -851,18 +852,22 @@ c) Thành phần, số lượng hồ sơ:
 (6) Hợp đồng và Biên bản nghiệm thu công việc đã thực hiện theo nội dung kê khai (đối với tổ chức khảo sát xây dựng, lập thiết kế quy hoạch xây dựng, thiết kế, thẩm tra thiết kế xây dựng, tư vấn quản lý dự án đầu tư xây dựng, tư vấn giám sát thi công xây dựng hạng II);
 (7) Hợp đồng; Biên bản nghiệm thu hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng hoặc bộ phận công trình (trong trường hợp thi công công tác xây dựng chuyên biệt) đã thực hiện theo nội dung kê khai (đối với tổ chức thi công xây dựng hạng II);
 (8) Các tài liệu theo quy định tại các điểm (2), (3), (4), (5), (6) và (7) nêu trên phải là bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện thủ tục hành chính: Tổ chức trong nước.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Chứng chỉ năng lực hoạt động xây dựng.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Tổ chức trong nước.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Chứng chỉ năng lực hoạt động xây dựng.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị cấp chứng chỉ năng lực hoạt động xây dựng theo Mẫu số 4 Phụ lục số IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 - Điều kiện chung: Tổ chức tham gia hoạt động xây dựng phải là doanh nghiệp theo quy định của Luật Doanh nghiệp năm 2020 hoặc tổ chức có chức năng tham gia hoạt động xây dựng được thành lập theo quy định của pháp luật, có ngành nghề phù hợp và đáp ứng các yêu cầu cụ thể đối với từng lĩnh vực hoạt động xây dựng theo quy định.
 - Điều kiện riêng: Đồng thời đáp ứng thêm các yêu cầu, điều kiện theo từng loại lĩnh vực cụ thể tại các Điều 91, Điều 92, Điều 93, Điều 94, Điều 95, Điều 96 của Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
@@ -891,7 +896,7 @@ Nơi cấp: .................................... Ngày cấp: ..................
 Số Chứng chỉ: ....................... Ngày cấp .................. Nơi cấp: ..........................
 Lĩnh vực hoạt động xây dựng: ...............................................................................
 9. Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề và cá nhân tham gia, công nhân kỹ thuật (nếu có) có liên quan của tổ chức
-### a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
+a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
 
 STT	Họ và tên	Vị trí/Chức danh	Số chứng chỉ hành nghề	Điện thoại liên hệ
 1	 	 	 	 
@@ -929,7 +934,7 @@ CỦA TỔ CHỨC
 Ghi chú:
 (1) Thay thế các thông tin người đại diện theo pháp luật (họ và tên, chức vụ), địa chỉ trụ sở chính; ngành nghề kinh doanh chính bằng mã số doanh nghiệp đối với tổ chức đã được cấp mã số doanh nghiệp.
  
-11. Thủ tục cấp điều chỉnh, bổ sung nội dung chứng chỉ năng lực hoạt động xây dựng hạng II, hạng III 
+## 11. Thủ tục cấp điều chỉnh, bổ sung nội dung chứng chỉ năng lực hoạt động xây dựng hạng II, hạng III 
 ### a). Trình tự thực hiện:
 Bước 1: Tổ chức nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
@@ -942,23 +947,28 @@ Tổ chức đánh giá, cấp chứng chỉ năng lực hoạt động xây d�
 - Sau khi có kết quả xét cấp chứng chỉ năng lực trong thời hạn không quá 05 ngày làm việc Sở Xây dựng có trách nhiệm cập nhật và đăng tải thông tin về năng lực hoạt động xây dựng của tổ chức lên trang thông tin điện tử của Sở Xây dựng đồng thời gửi đến Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 - Đơn đề nghị cấp chứng chỉ năng lực hoạt động xây dựng theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP;
 - Bản gốc chứng chỉ năng lực đã được cấp;
 - Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý các tài liệu liên quan đến nội dung đề nghị điều chỉnh, bổ sung theo quy định tại khoản 1 Điều 87 Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; 
-đ) Đối tượng thực hiện thủ tục hành chính: Tổ chức trong nước.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Chứng chỉ năng lực hoạt động xây dựng điều chỉnh, bổ sung.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Tổ chức trong nước.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Chứng chỉ năng lực hoạt động xây dựng điều chỉnh, bổ sung.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị điều chỉnh, bổ sung chứng chỉ năng lực hoạt động xây dựng theo Mẫu số 4 Phụ lục số IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ).
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 - Điều kiện chung: Tổ chức tham gia hoạt động xây dựng phải là doanh nghiệp theo quy định của Luật Doanh nghiệp năm 2020 hoặc tổ chức có chức năng tham gia hoạt động xây dựng được thành lập theo quy định của pháp luật, có ngành nghề phù hợp và đáp ứng các yêu cầu cụ thể đối với từng lĩnh vực hoạt động xây dựng theo quy định.
 - Điều kiện riêng: Đồng thời đáp ứng thêm các yêu cầu, điều kiện theo từng loại lĩnh vực cụ thể tại các Điều 91, Điều 92, Điều 93, Điều 94, Điều 95, Điều 96 của Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng. 
@@ -986,7 +996,7 @@ Nơi cấp: .................................... Ngày cấp: ..................
 Số Chứng chỉ: ....................... Ngày cấp .................. Nơi cấp: ..........................
 Lĩnh vực hoạt động xây dựng: ...............................................................................
 9. Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề và cá nhân tham gia, công nhân kỹ thuật (nếu có) có liên quan của tổ chức
-### a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
+a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
 
 STT	Họ và tên	Vị trí/Chức danh	Số chứng chỉ hành nghề	Điện thoại liên hệ
 1	 	 	 	 
@@ -1024,7 +1034,7 @@ CỦA TỔ CHỨC
 Ghi chú:
 (1) Thay thế các thông tin người đại diện theo pháp luật (họ và tên, chức vụ), địa chỉ trụ sở chính; ngành nghề kinh doanh chính bằng mã số doanh nghiệp đối với tổ chức đã được cấp mã số doanh nghiệp.
  
-12. Thủ tục cấp lại chứng chỉ năng lực hoạt động xây dựng (do mất, hư hỏng) hạng II, hạng III 
+## 12. Thủ tục cấp lại chứng chỉ năng lực hoạt động xây dựng (do mất, hư hỏng) hạng II, hạng III 
 ### a). Trình tự thực hiện:
 Bước 1: Tổ chức nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
@@ -1037,21 +1047,26 @@ Tổ chức đánh giá, cấp chứng chỉ năng lực hoạt động xây d�
 - Sau khi có kết quả xét cấp chứng chỉ năng lực trong thời hạn không quá 05 ngày làm việc Sở Xây dựng có trách nhiệm cập nhật và đăng tải thông tin về năng lực hoạt động xây dựng của tổ chức lên trang thông tin điện tử của Sở Xây dựng đồng thời gửi đến Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 - Đơn đề nghị cấp lại chứng chỉ năng lực theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP;
 - Bản gốc chứng chỉ năng lực đã được cấp còn thời hạn nhưng bị hư hỏng hoặc bị ghi sai thông tin. Trường hợp bị mất chứng chỉ năng lực thì phải có cam kết của tổ chức đề nghị cấp lại.
-d) Thời hạn giải quyết: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
-đ) Đối tượng thực hiện thủ tục hành chính: Tổ chức trong nước.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Chứng chỉ năng lực hoạt động xây dựng được cấp lại.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Tổ chức trong nước.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Chứng chỉ năng lực hoạt động xây dựng được cấp lại.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị cấp lại chứng chỉ năng lực hoạt động xây dựng theoMẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 Chứng chỉ năng lực hoạt động xây dựng bị mất, hư hỏng.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
@@ -1118,7 +1133,7 @@ CỦA TỔ CHỨC
 Ghi chú:
 (1) Thay thế các thông tin người đại diện theo pháp luật (họ và tên, chức vụ), địa chỉ trụ sở chính; ngành nghề kinh doanh chính bằng mã số doanh nghiệp đối với tổ chức đã được cấp mã số doanh nghiệp.
  
-13. Thủ tục cấp lại chứng chỉ năng lực hoạt động xây dựng (do lỗi của cơ quan cấp) hạng II, hạng III 
+## 13. Thủ tục cấp lại chứng chỉ năng lực hoạt động xây dựng (do lỗi của cơ quan cấp) hạng II, hạng III 
 ### a). Trình tự thực hiện:
 Bước 1: Tổ chức nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
@@ -1131,21 +1146,26 @@ Tổ chức đánh giá, cấp chứng chỉ năng lực hoạt động xây d�
 - Sau khi có kết quả xét cấp chứng chỉ năng lực trong thời hạn không quá 05 ngày làm việc Sở Xây dựng có trách nhiệm cập nhật và đăng tải thông tin về năng lực hoạt động xây dựng của tổ chức lên trang thông tin điện tử của Sở Xây dựng đồng thời gửi đến Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 - Đơn đề nghị cấp lại chứng chỉ năng lực theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP;
 - Bản gốc chứng chỉ năng lực đã được cấp.
-d) Thời hạn giải quyết: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
-đ) Đối tượng thực hiện thủ tục hành chính: Tổ chức trong nước.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Chứng chỉ năng lực hoạt động xây dựng được cấp lại.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Tổ chức trong nước.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Chứng chỉ năng lực hoạt động xây dựng được cấp lại.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị cấp lại chứng chỉ năng lực hoạt động xây dựng theoMẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 Chứng chỉ năng lực hoạt động xây dựng bị ghi sai thông tin.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
@@ -1174,7 +1194,7 @@ Nơi cấp: .................................... Ngày cấp: ..................
 Số Chứng chỉ: ....................... Ngày cấp .................. Nơi cấp: ..........................
 Lĩnh vực hoạt động xây dựng: ...............................................................................
 9. Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề và cá nhân tham gia, công nhân kỹ thuật (nếu có) có liên quan của tổ chức
-### a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
+a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
 
 STT	Họ và tên	Vị trí/Chức danh	Số chứng chỉ hành nghề	Điện thoại liên hệ
 1	 	 	 	 
@@ -1213,7 +1233,8 @@ Ghi chú:
 (1) Thay thế các thông tin người đại diện theo pháp luật (họ và tên, chức vụ), địa chỉ trụ sở chính; ngành nghề kinh doanh chính bằng mã số doanh nghiệp đối với tổ chức đã được cấp mã số doanh nghiệp.
 
  
-14. Thủ tục gia hạn chứng chỉ năng lực hoạt động xây dựng hạng II, hạng III ### a). Trình tự thực hiện:
+## 14. Thủ tục gia hạn chứng chỉ năng lực hoạt động xây dựng hạng II, hạng III 
+### a). Trình tự thực hiện:
 Bước 1: Tổ chức nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
 - Nộp trực tiếp hoặc qua đường bưu điện, địa chỉ: Bộ phận một cửa Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi, số 54 đường Hùng Vương, thành phố Quảng Ngãi, tỉnh Quảng Ngãi.
@@ -1225,21 +1246,26 @@ Tổ chức đánh giá, cấp chứng chỉ năng lực hoạt động xây d�
 - Sau khi có kết quả xét cấp chứng chỉ năng lực trong thời hạn không quá 05 ngày làm việc Sở Xây dựng có trách nhiệm cập nhật và đăng tải thông tin về năng lực hoạt động xây dựng của tổ chức lên trang thông tin điện tử của Sở Xây dựng đồng thời gửi đến Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 - Đơn đề nghị cấp chứng chỉ năng lực theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP;
 - Bản gốc chứng chỉ năng lực đã được cấp. Trường hợp bị mất chứng chỉ năng lực thì phải có cam kết của tổ chức đề nghị cấp lại
-d) Thời hạn giải quyết: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
-đ) Đối tượng thực hiện thủ tục hành chính: Tổ chức trong nước.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Chứng chỉ năng lực hoạt động xây dựng được gia hạn.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Tổ chức trong nước.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Chứng chỉ năng lực hoạt động xây dựng được gia hạn.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Mẫu đơn đề nghị gia hạn chứng chỉ năng lực hoạt động xây dựng theo Mẫu số 04 Phụ lục IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 Gia hạn chứng chỉ năng lực hoạt động xây dựng: Trong thời hạn 03 tháng tính tới thời điểm chứng chỉ năng lực hết hiệu lực (sau thời hạn này, tổ chức có nhu cầu tiếp tục hoạt động xây dựng thì thực hiện đề nghị cấp chứng chỉ năng lực như đối với thủ tục cấp lần đầu).
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
@@ -1268,7 +1294,7 @@ Nơi cấp: .................................... Ngày cấp: ..................
 Số Chứng chỉ: ....................... Ngày cấp .................. Nơi cấp: ..........................
 Lĩnh vực hoạt động xây dựng: ...............................................................................
 9. Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề và cá nhân tham gia, công nhân kỹ thuật (nếu có) có liên quan của tổ chức
-### a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
+a) Danh sách cá nhân chủ nhiệm, chủ trì, cá nhân có yêu cầu về chứng chỉ hành nghề:
 
 STT	Họ và tên	Vị trí/Chức danh	Số chứng chỉ hành nghề	Điện thoại liên hệ
 1	 	 	 	 
@@ -1308,7 +1334,7 @@ Ghi chú:
 
 
  
-15. Thủ tục cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài thuộc dự án nhóm B, nhóm C
+## 15. Thủ tục cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài thuộc dự án nhóm B, nhóm C
 ### a) Trình tự thực hiện:
 Bước 1: Tổ chức hoặc cá nhân nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
@@ -1319,8 +1345,9 @@ Bước 2: Sở Xây dựng thực hiện công tác xét, cấp giấy phép ho
 - Sở Xây dựng tổ chức xem xét hồ sơ để cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài trong thời hạn 20 ngày. Trường hợp không cấp, phải trả lời bằng văn bản cho nhà thầu và nêu rõ lý do.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính và nộp lệ phí theo quy định  trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 - Đơn đề nghị cấp giấy phép hoạt động xây dựng theo Mẫu số 01 (đối với tổ chức), Mẫu số 04 (đối với cá nhân) Phụ lục III Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
 - Bản sao có chứng thực hoặc bản sao điện tử về kết quả đấu thầu hoặc quyết định chọn thầu hợp pháp (nếu bằng tiếng nước ngoài phải được dịch ra tiếng Việt và được công chứng, chứng thực theo quy định của pháp luật Việt Nam).
 - Bản sao có chứng thực hoặc bản sao điện tử giấy phép thành lập hoặc Giấy chứng nhận đăng ký kinh doanh đối với tổ chức và chứng chỉ hành nghề (nếu có) của nước nơi mà nhà thầu nước ngoài mang quốc tịch cấp và phải được hợp pháp hóa lãnh sự, trừ trường hợp Điều ước quốc tế mà Việt Nam và các nước có liên quan là thành viên có quy định về miễn trừ hợp pháp hóa lãnh sự.
@@ -1329,19 +1356,23 @@ c) Thành phần, số lượng hồ sơ:
 - Giấy ủy quyền hợp pháp đối với người không phải là người đại diện theo pháp luật của nhà thầu theo Mẫu số 03 Phụ lục III Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
 - Bản sao có chứng thực hoặc bản sao điện tử quyết định phê duyệt dự án hoặc quyết định đầu tư hoặc giấy chứng nhận đầu tư của dự án/công trình.
 (2) Số lượng hồ sơ: 01 (một) bộ.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
-đ) Đối tượng thực hiện thủ tục hành chính: Nhà thầu nước ngoài là tổ chức hoặc nhà thầu nước ngoài là cá nhân hoạt động xây dựng tại Việt Nam đề nghị cấp giấy phép hoạt động xây dựng.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Quyết định cấp Giấy phép hoạt động xây dựng cho nhà thầu nước ngoài.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Nhà thầu nước ngoài là tổ chức hoặc nhà thầu nước ngoài là cá nhân hoạt động xây dựng tại Việt Nam đề nghị cấp giấy phép hoạt động xây dựng.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Quyết định cấp Giấy phép hoạt động xây dựng cho nhà thầu nước ngoài.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị cấp giấy phép hoạt động xây dựng theo Mẫu số 1, Mẫu số 4 Phụ lục số III Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 - Nhà thầu nước ngoài được cấp giấy phép hoạt động xây dựng khi có quyết định trúng thầu hoặc được chọn thầu của chủ đầu tư/nhà thầu chính (phụ).
 - Nhà thầu nước ngoài phải liên danh với nhà thầu Việt Nam hoặc sử dụng nhà thầu phụ Việt Nam, trừ trường hợp nhà thầu trong nước không đủ năng lực tham gia vào bất kỳ công việc nào của gói thầu. Khi liên danh hoặc sử dụng nhà thầu Việt Nam phải phân định rõ nội dung, khối lượng và giá trị phần công việc do nhà thầu Việt Nam trong liên danh; nhà thầu phụ Việt Nam thực hiện.
 - Nhà thầu nước ngoài phải cam kết thực hiện đầy đủ các quy định của pháp luật Việt Nam có liên quan đến hoạt động nhận thầu tại Việt Nam.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
@@ -1409,7 +1440,7 @@ Kính đơn
 Họ và tên người ký
 
  
-16. Thủ tục điều chỉnh giấy phép hoạt động xây dựng cho nhà thầu nước ngoài thuộc dự án nhóm B, nhóm C 
+## 16. Thủ tục điều chỉnh giấy phép hoạt động xây dựng cho nhà thầu nước ngoài thuộc dự án nhóm B, nhóm C 
 ### a) Trình tự thực hiện:
 Bước 1: Tổ chức hoặc cá nhân nộp hồ sơ đề nghị giải quyết thủ tục hành chính qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp Bộ phận một cửa của Sở Xây dựng tại Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi.
 - Nộp trực tuyến truy cập địa chỉ: https://dichvucong.quangngai.gov.vn
@@ -1420,27 +1451,32 @@ Bước 2: Sở Xây dựng thực hiện công tác xét, cấp giấy phép ho
 - Sở Xây dựng tổ chức xem xét hồ sơ để cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp không cấp, phải trả lời bằng văn bản cho nhà thầu và nêu rõ lý do.
 Bước 3: 
 Tổ chức nhận kết quả giải quyết thủ tục hành chính và nộp lệ phí theo quy định trực tiếp tại Bộ phận một cửa của Sở Xây dựng - Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện.
-b) Cách thức thực hiện: Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
-c) Thành phần, số lượng hồ sơ: 
+### b) Cách thức thực hiện: 
+Tổ chức gửi 01 bộ hồ sơ thông qua Trung tâm phục vụ hành chính công tỉnh Quảng Ngãi hoặc qua đường bưu điện hoặc qua mạng trực tuyến.
+### c) Thành phần, số lượng hồ sơ: 
 (1) Thành phần hồ sơ:
 - Đơn đề nghị điều chỉnh giấy phép hoạt động xây dựng theo Mẫu số 08 Phụ lục III Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
 - Bản sao Giấy phép hoạt động xây dựng đã được cấp.
 - Bản sao các văn bản chứng minh cho nội dung điều chỉnh (nếu bằng tiếng nước ngoài phải được dịch ra tiếng Việt và được công chứng, chứng thực theo quy định của pháp luật Việt Nam).
 - Văn bản chấp thuận của chủ đầu tư (thầu chính trường hợp nhà thầu đề nghị điều chỉnh là thầu phụ)
 (2) Số lượng hồ sơ: 01 (một) bộ.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
-đ) Đối tượng thực hiện thủ tục hành chính: Nhà thầu nước ngoài là tổ chức hoặc nhà thầu nước ngoài là cá nhân hoạt động xây dựng tại Việt Nam đề nghị cấp điều chỉnh giấy phép hoạt động xây dựng.
-e) Cơ quan thực hiện thủ tục hành chính: Sở Xây dựng.
-f) Kết quả thủ tục hành chính: Quyết định cấp Giấy phép hoạt động xây dựng điều chỉnh cho nhà thầu nước ngoài.
-g) Phí, lệ phí:
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. 
+### đ) Đối tượng thực hiện thủ tục hành chính: 
+Nhà thầu nước ngoài là tổ chức hoặc nhà thầu nước ngoài là cá nhân hoạt động xây dựng tại Việt Nam đề nghị cấp điều chỉnh giấy phép hoạt động xây dựng.
+### e) Cơ quan thực hiện thủ tục hành chính: 
+Sở Xây dựng.
+### f) Kết quả thủ tục hành chính: 
+Quyết định cấp Giấy phép hoạt động xây dựng điều chỉnh cho nhà thầu nước ngoài.
+### g) Phí, lệ phí:
 Theo quy định tại Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng.
-h) Tên mẫu đơn, mẫu tờ khai:
+### h) Tên mẫu đơn, mẫu tờ khai:
 Đơn đề nghị điều chỉnh giấy phép hoạt động xây dựng theo Mẫu số 08 Phụ lục III Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
-k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
+### k) Yêu cầu, điều kiện thực hiện thủ tục hành chính (nếu có):
 - Nhà thầu nước ngoài được cấp giấy phép hoạt động xây dựng khi có quyết định trúng thầu hoặc được chọn thầu của chủ đầu tư/nhà thầu chính (phụ).
 - Nhà thầu nước ngoài phải liên danh với nhà thầu Việt Nam hoặc sử dụng nhà thầu phụ Việt Nam, trừ trường hợp nhà thầu trong nước không đủ năng lực tham gia vào bất kỳ công việc nào của gói thầu. Khi liên danh hoặc sử dụng nhà thầu Việt Nam phải phân định rõ nội dung, khối lượng và giá trị phần công việc do nhà thầu Việt Nam trong liên danh; nhà thầu phụ Việt Nam thực hiện.
 - Nhà thầu nước ngoài phải cam kết thực hiện đầy đủ các quy định của pháp luật Việt Nam có liên quan đến hoạt động nhận thầu tại Việt Nam.
-l) Căn cứ pháp lý của thủ tục hành chính:
+### l) Căn cứ pháp lý của thủ tục hành chính:
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Thông tư số 172/2016/TT-BTC ngày 27/10/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép hoạt động xây dựng. 
@@ -1470,16 +1506,16 @@ Khi được cấp Giấy phép hoạt động xây dựng điều chỉnh, chú
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu Công ty)
 
  
-17. Thủ tục cấp Giấy phép xây dựng mới đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
+## 17. Thủ tục cấp Giấy phép xây dựng mới đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp giấy phép xây dựng tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
 - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng tổ chức thẩm định hồ sơ, kiểm tra thực địa.
 - Trong thời hạn 5 ngày làm việc kể từ ngày nhận bổ sung hồ sơ nhưng chưa đáp ứng được yêu cầu theo văn bản thông báo, Sở Xây dựng có trách nhiệm thông báo bằng văn bản hướng dẫn cho chủ đầu tư tiếp tục hoàn thiện hồ sơ. Chủ đầu tư có trách nhiệm bổ sung, hoàn thiện hồ sơ theo văn bản thông báo. Trường hợp việc bổ sung hồ sơ vẫn không đáp ứng được các nội dung theo thông báo thì trong thời hạn 3 ngày làm việc, Sở Xây dựng có trách nhiệm thông báo đến chủ đầu tư về lý do không cấp giấy phép.
 - Trong thời gian 12 ngày kể từ ngày nhận được hồ sơ, các cơ quan quản lý nhà nước được hỏi ý kiến có trách nhiệm trả lời bằng văn bản về những nội dung thuộc chức năng quản lý của mình. Sau thời hạn trên, nếu các cơ quan này không có ý kiến thì được coi là đã đồng ý và phải chịu trách nhiệm về những nội dung thuộc chức năng quản lý của mình; Sở Xây dựng căn cứ các quy định hiện hành để quyết định việc cấp giấy phép xây dựng.
-b) Cách thức thực hiện:
+### b) Cách thức thực hiện:
 Chủ đầu tư nộp hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính. 
-c) Thành phần, số lượng hồ sơ:
+### c) Thành phần, số lượng hồ sơ:
 1. Đối với công trình không theo tuyến:
 - Đơn đề nghị cấp giấy phép xây dựng theo quy định tại Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP của Chính phủ (riêng đối với mẫu đơn đề nghị cấp Giấy phép xây dựng có thời hạn thì tiêu đề của đơn đổi thành “Đơn đề nghị cấp giấy phép xây dựng có thời hạn”);
 - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai;
@@ -1526,21 +1562,23 @@ Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình c
 - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng của từng công trình trong nhóm Công trình hoặc toàn bộ dự án đã được phê duyệt, gồm:
 Hồ sơ thiết kế xây dựng theo quy định tại điểm d khoản 1 Điều 43 Nghị định số 15/2021/NĐ-CP đối với công trình không theo tuyến;
 Hồ sơ thiết kế xây dựng theo quy định tại điểm d khoản 2 Điều 43 Nghị định số 15/2021/NĐ-CP đối với công trình theo tuyến.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
-g) Kết quả thực hiện thủ tục hành chính:
+### g) Kết quả thực hiện thủ tục hành chính:
 Giấy phép xây dựng (theo mẫu 03, 04, 05, 06, 07, 08 phụ lục II Nghị định số 15/2021/NĐ-CP) kèm theo hồ sơ thiết kế trình xin cấp giấy phép xây dựng có đóng dấu của Sở Xây dựng hoặc thông báo bằng văn bản nêu rõ lý do trong trường hợp không đủ điều kiện cấp giấy phép xây dựng.
-h) Lệ phí: 150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
+### h) Lệ phí: 
+150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị cấp giấy phép xây dựng công trình theo Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP.
 - Mẫu Giấy phép xây dựng (theo mẫu 03, 04, 05, 06, 07, 08 phụ lục II Nghị định số 15/2021/NĐ-CP).
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -1548,7 +1586,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng (có hiệu lực kể từ ngày 25 tháng 6 năm 2017).
@@ -2120,36 +2158,38 @@ CẤP GIẤY PHÉP XÂY DỰNG
 
 
 
-18. Thủ tục cấp Giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
+## 18. Thủ tục cấp Giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp giấy phép xây dựng sửa chữa, cải tạo tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
 - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng tổ chức thẩm định hồ sơ, kiểm tra thực địa.
 - Trong thời hạn 5 ngày làm việc kể từ ngày nhận bổ sung hồ sơ nhưng chưa đáp ứng được yêu cầu theo văn bản thông báo, Sở Xây dựng có trách nhiệm thông báo bằng văn bản hướng dẫn cho chủ đầu tư tiếp tục hoàn thiện hồ sơ. Chủ đầu tư có trách nhiệm bổ sung, hoàn thiện hồ sơ theo văn bản thông báo. Trường hợp việc bổ sung hồ sơ vẫn không đáp ứng được các nội dung theo thông báo thì trong thời hạn 3 ngày làm việc, Sở Xây dựng có trách nhiệm thông báo đến chủ đầu tư về lý do không cấp giấy phép.
 - Trong thời gian 12 ngày kể từ ngày nhận được hồ sơ, các cơ quan quản lý nhà nước được hỏi ý kiến có trách nhiệm trả lời bằng văn bản về những nội dung thuộc chức năng quản lý của mình. Sau thời hạn trên, nếu các cơ quan này không có ý kiến thì được coi là đã đồng ý và phải chịu trách nhiệm về những nội dung thuộc chức năng quản lý của mình; Sở Xây dựng căn cứ các quy định hiện hành để quyết định việc cấp giấy phép xây dựng.
-b) Cách thức thực hiện:
+### b) Cách thức thực hiện:
 Chủ đầu tư nộp hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính. 
-c) Thành phần, số lượng hồ sơ:
+### c) Thành phần, số lượng hồ sơ:
 - Đơn đề nghị cấp giấy phép xây dựng theo quy định tại Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP;
 - Một trong những giấy tờ chứng minh về quyền sở hữu, quản lý, sử dụng công trình, nhà ở riêng lẻ theo quy định của pháp luật;
 - Bản vẽ hiện trạng của các bộ phận công trình dự kiến sửa chữa, cải tạo đã được phê duyệt theo quy định có tỷ lệ tương ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (kích thước tối thiểu 10 x 15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo;
 - Hồ sơ thiết kế sửa chữa, cải tạo tương ứng với mỗi loại công trình theo quy định tại Điều 43 hoặc Điều 46 Nghị định số 15/2021/NĐ-CP;
 - Đối với các công trình di tích lịch sử - văn hóa và danh lam, thắng cảnh đã được xếp hạng thì phải có văn bản chấp thuận về sự cần thiết xây dựng và quy mô công trình của cơ quan quản lý nhà nước về văn hóa.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: 
+Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
-g) Kết quả thực hiện thủ tục hành chính:
+### g) Kết quả thực hiện thủ tục hành chính:
 Giấy phép xây dựng (theo mẫu 10 phụ lục II Nghị định số 15/2021/NĐ-CP) kèm theo hồ sơ thiết kế trình xin cấp giấy phép xây dựng có đóng dấu của Sở Xây dựng hoặc thông báo bằng văn bản nêu rõ lý do trong trường hợp không đủ điều kiện.
-h) Lệ phí: 150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
+### h) Lệ phí: 150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị cấp giấy phép xây dựng công trình theo Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP.
 - Mẫu Giấy phép xây dựng (theo mẫu số 10 phụ lục II Nghị định số 15/2021/NĐ-CP).
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -2157,7 +2197,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng (có hiệu lực kể từ ngày 25 tháng 6 năm 2017).
@@ -2378,7 +2418,7 @@ CẤP GIẤY PHÉP XÂY DỰNG
 
 
 
-19. Thủ tục cấp Giấy phép di dời đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
+## ### 19. Thủ tục cấp Giấy phép di dời đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp giấy phép xây dựng tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
@@ -2386,9 +2426,9 @@ CẤP GIẤY PHÉP XÂY DỰNG
 - Trong thời hạn 5 ngày làm việc kể từ ngày nhận bổ sung hồ sơ nhưng chưa đáp ứng được yêu cầu theo văn bản thông báo, Sở Xây dựng có trách nhiệm thông báo bằng văn bản hướng dẫn cho chủ đầu tư tiếp tục hoàn thiện hồ sơ. Chủ đầu tư có trách nhiệm bổ sung, hoàn thiện hồ sơ theo văn bản thông báo. Trường hợp việc bổ sung hồ sơ vẫn không đáp ứng được các nội dung theo thông báo thì trong thời hạn 3 ngày làm việc, Sở Xây dựng có trách nhiệm thông báo đến chủ đầu tư về lý do không cấp giấy phép.
 - Căn cứ quy mô, tính chất, loại công trình và địa điểm xây dựng công trình có trong hồ sơ đề nghị cấp giấy phép xây dựng, Sở Xây dựng có trách nhiệm đối chiếu các điều kiện theo quy định để gửi văn bản lấy ý kiến của các cơ quan quản lý nhà nước về những lĩnh vực liên quan đến công trình xây dựng theo quy định của pháp luật;
 Trong thời gian 12 ngày kể từ ngày nhận được hồ sơ, các cơ quan quản lý nhà nước được hỏi ý kiến có trách nhiệm trả lời bằng văn bản về những nội dung thuộc chức năng quản lý của mình. Sau thời hạn trên, nếu các cơ quan này không có ý kiến thì được coi là đã đồng ý và phải chịu trách nhiệm về những nội dung thuộc chức năng quản lý của mình; Sở Xây dựng căn cứ các quy định hiện hành để quyết định việc cấp giấy phép xây dựng.
-b) Cách thức thực hiện:
+### b) Cách thức thực hiện:
 Chủ đầu tư nộp hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính. 
-c) Thành phần, số lượng hồ sơ:
+### c) Thành phần, số lượng hồ sơ:
 - Đơn đề nghị cấp giấy phép xây dựng theo quy định tại Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP);
 - Bản sao giấy tờ chứng minh quyền sử dụng đất nơi công trình sẽ di dời đến và giấy tờ hợp pháp về sở hữu công trình theo quy định của pháp luật.
 - Bản vẽ hoàn công công trình (nếu có) hoặc bản vẽ thiết kế mô tả thực trạng công trình được di dời, gồm mặt bằng, mặt cắt móng và bản vẽ kết cấu chịu lực chính; bản vẽ tổng mặt bằng địa điểm công trình sẽ được di dời tới; bản vẽ mặt bằng, mặt cắt móng tại địa điểm công trình sẽ di dời đến.
@@ -2396,21 +2436,24 @@ c) Thành phần, số lượng hồ sơ:
 -  Phương án di dời do tổ chức, cá nhân có đủ điều kiện năng lực thực hiện gồm:
 + Phần thuyết minh về hiện trạng công trình và khu vực công trình sẽ được di dời đến; giải pháp di dời, phương án bố trí sử dụng phương tiện, thiết bị, nhân lực; giải pháp bảo đảm an toàn cho công trình, người, máy móc, thiết bị và công trình lân cận; bảo đảm vệ sinh môi trường; tiến độ di dời; tổ chức, cá nhân thực hiện di dời công trình;
 + Phần bản vẽ biện pháp thi công di dời công trình.
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: 
+Cơ quan, Tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
-g) Kết quả thực hiện thủ tục hành chính:
+### g) Kết quả thực hiện thủ tục hành chính:
 Giấy phép xây dựng (theo mẫu số 11 phụ lục II Nghị định số 15/2021/NĐ-CP) kèm theo hồ sơ thiết kế trình xin cấp giấy phép xây dựng có đóng dấu của Sở Xây dựng hoặc thông báo bằng văn bản nêu rõ lý do trong trường hợp không đủ điều kiện.
-h) Lệ phí: 150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
+### h) Lệ phí: 
+### 150.000 đồng/01 Giấy phép (Một trăm năm mươi ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị cấp giấy phép xây dựng công trình theo Mẫu số 01 Phụ lục II Nghị định số 15/2021/NĐ-CP.
 - Mẫu Giấy phép xây dựng (theo mẫu số 11 phụ lục II Nghị định số 15/2021/NĐ-CP).
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -2418,7 +2461,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng (có hiệu lực kể từ ngày 25 tháng 6 năm 2017).
@@ -2616,7 +2659,7 @@ CẤP GIẤY PHÉP XÂY DỰNG
 
 
 
-20. Thủ tục cấp điều chỉnh Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
+## 20. Thủ tục cấp điều chỉnh Giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (Công trình không theo tuyến/ Theo tuyến trong đô thị/ Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/ Theo giai đoạn cho công trình theo tuyến trong đô thị/ Dự án):
 ### a) Trình tự thực hiện:
 - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị điều chỉnh giấy phép xây dựng tại Bộ phận tiếp nhận và trả kết quả của Sở Xây dựng tại Trung tâm Phục vụ hành chính công tỉnh.
 - Công chức của Sở Xây dựng tại Trung tâm Phục vụ hành chính công kiểm tra tính chính xác, đầy đủ của hồ sơ, tiếp nhận hồ sơ và cấp biên nhận có ngày hẹn trả kết quả cho người nộp. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì hướng dẫn để người nộp hoàn thiện hồ sơ.
@@ -2624,27 +2667,30 @@ CẤP GIẤY PHÉP XÂY DỰNG
 - Trong thời hạn 5 ngày làm việc kể từ ngày nhận bổ sung hồ sơ nhưng chưa đáp ứng được yêu cầu theo văn bản thông báo, Sở Xây dựng có trách nhiệm thông báo bằng văn bản hướng dẫn cho chủ đầu tư tiếp tục hoàn thiện hồ sơ. Chủ đầu tư có trách nhiệm bổ sung, hoàn thiện hồ sơ theo văn bản thông báo. Trường hợp việc bổ sung hồ sơ vẫn không đáp ứng được các nội dung theo thông báo thì trong thời hạn 3 ngày làm việc, Sở Xây dựngs có trách nhiệm thông báo đến chủ đầu tư về lý do không cấp giấy phép.
 - Căn cứ quy mô, tính chất, loại công trình và địa điểm xây dựng công trình có trong hồ sơ đề nghị cấp giấy phép xây dựng, Sở Xây dựng có trách nhiệm đối chiếu các điều kiện theo quy định để gửi văn bản lấy ý kiến của các cơ quan quản lý nhà nước về những lĩnh vực liên quan đến công trình xây dựng theo quy định của pháp luật;
 Trong thời gian 12 ngày kể từ ngày nhận được hồ sơ, các cơ quan quản lý nhà nước được hỏi ý kiến có trách nhiệm trả lời bằng văn bản về những nội dung thuộc chức năng quản lý của mình. Sau thời hạn trên, nếu các cơ quan này không có ý kiến thì được coi là đã đồng ý và phải chịu trách nhiệm về những nội dung thuộc chức năng quản lý của mình; Sở Xây dựng căn cứ các quy định hiện hành để quyết định việc cấp giấy phép xây dựng.
-b) Cách thức thực hiện:
+### b) Cách thức thực hiện:
 Chủ đầu tư nộp hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính. 
-c) Thành phần, số lượng hồ sơ:
+### c) Thành phần, số lượng hồ sơ:
 - Đơn đề nghị điều chỉnh giấy phép xây dựng theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP của Chính phủ;
 - Bản chính giấy phép xây dựng đã được cấp;
 - 02 bộ bản sao hoặc tệp tin chứa bản chụp chính bản vẽ thiết kế mặt bằng, mặt đứng, mặt cắt bộ phận, hạng mục công trình đề nghị điều chỉnh tỷ lệ 1/50-1/200;
 - Bản sao hoặc tệp tin chứa bản chụp chính văn bản phê duyệt điều chỉnh thiết kế của người có thẩm quyền theo quy định kèm theo Bản kê khai điều kiện năng lực của tổ chức, cá nhân thiết kế đối với trường hợp thiết kế không do cơ quan chuyên môn về xây dựng thẩm định hoặc Báo cáo kết quả thẩm định thiết kế điều chỉnh của cơ quan chuyên mô về xây dựng theo quy định của pháp luật về xây dựng.  
-d) Thời hạn giải quyết: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
-đ) Đối tượng thực hiện TTHC: Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
-e) Cơ quan thực hiện thủ tục hành chính: 
+### d) Thời hạn giải quyết: 
+20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+### đ) Đối tượng thực hiện TTHC: 
+Cơ quan, tổ chức, cá nhân (gọi tắt là Chủ đầu tư).
+### e) Cơ quan thực hiện thủ tục hành chính: 
 - Cơ quan trực tiếp thực hiện thủ tục hành chính: Sở Xây dựng Quảng Ngãi.
 - Cơ quan phối hợp: Các Sở ban ngành thuộc tỉnh, UBND cấp huyện…
-g) Kết quả thực hiện thủ tục hành chính:
+### g) Kết quả thực hiện thủ tục hành chính:
 Giấy phép xây dựng được điều chỉnh kèm theo hồ sơ thiết kế đề nghị điều chỉnh giấy phép xây dựng có đóng dấu của Sở Xây dựng hoặc thông báo bằng văn bản nêu rõ lý do trong trường hợp không đủ điều kiện.
-h) Lệ phí: 50.000 đồng /01 lần (Năm mươi ngàn đồng chẵn)
+### h) Lệ phí: 
+50.000 đồng /01 lần (Năm mươi ngàn đồng chẵn)
 Đối tượng miễn thu lệ phí:
 1. Hộ nghèo; người cao tuổi; người khuyết tật; bố, mẹ, vợ (hoặc chồng) của liệt sĩ; người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 2. Các hộ gia đình, cá nhân xin cấp giấy phép xây dựng có thời hạn do ảnh hưởng của quy hoạch; hộ gia đình, cá nhân thuộc diện tái định cư do bị ảnh hưởng giải phóng mặt bằng; hộ gia đình, cá nhân di dời nhà ở do thiên tai.
-i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
+### i) Tên mẫu đơn và các văn bản trong quy trình thực hiện cấp giấy phép xây dựng:
 - Mẫu đơn đề nghị điều chỉnh giấy phép xây dựng công trình theo Mẫu số 02 Phụ lục II Nghị định số 15/2021/NĐ-CP.
-k) Yêu cầu, điều kiện thực hiện TTHC: 
+### k) Yêu cầu, điều kiện thực hiện TTHC: 
 - Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan có thẩm quyền chấp thuận bằng văn bản).
 - Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
 - Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
@@ -2652,7 +2698,7 @@ k) Yêu cầu, điều kiện thực hiện TTHC:
 - Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
 - Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
 - Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
-l) Căn cứ pháp lý của thủ tục hành chính: 
+### l) Căn cứ pháp lý của thủ tục hành chính: 
 - Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020;
 - Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng;
 - Nghị định số 53/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ quy định các loại giấy tờ hợp pháp về đất đai để cấp Giấy phép xây dựng.
